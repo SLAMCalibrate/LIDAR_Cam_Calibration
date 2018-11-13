@@ -1,7 +1,11 @@
+*.cpp~
+*.cpp.swp
 *.pcd
 bin/
 build/
+src/__pycache__
 include/slam_base.h
+include/slamBase.h~
 lib/
 pointcloud/
 Result/
