@@ -10,3 +10,5 @@ src/Scripts/
 src/slam.cpp
 *.json
 *.py
+*.pyc
+
