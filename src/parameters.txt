@@ -1,0 +1,41 @@
+start_index=0
+end_index=50
+
+voxel_grid=0.02
+
+visualize_pointcloud=yes
+
+Canny_lowThreshold=80
+Canny_maxThreshold=100
+Canny_kernel_size=3
+Gradient_kernel=3
+Num_frame=21
+
+
+R.00=-0.0054
+R.01=-0.9998
+R.02=-0.0211
+R.10=0.0269
+R.11=0.0210
+R.12=-0.9994
+R.20=0.9996
+R.21=-0.0060
+R.22=0.0268
+T.00=0.1500
+T.10=0.0611
+T.20=0.0820
+
+
+good_match_threshold=2.5
+
+PC_Dir=/home/wayne/AirLab/20180904_data/calibration/clouds/
+IMG_Dir=/home/wayne/AirLab/20180904_data/calibration/images/
+
+camera.cx=2.058589540681295603e+03
+camera.cy=1.461234938571620887e+03
+camera.fx=4.722690364264930395e+03
+camera.fy=4.736153316919117970e+03
+
+fast corner
+more featurepoints 
+adjust focal length

@@ -1,0 +1,12 @@
+*.pcd
+bin/
+build/
+include/slam_base.h
+lib/
+pointcloud/
+Result/
+src/Scripts/
+*.png
+src/slam.cpp
+*.json
+*.py
